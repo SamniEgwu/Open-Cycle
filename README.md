@@ -7,7 +7,7 @@ An AI-powered waste management app combining education, gaming, and rewards to p
 RICH CYCLE is a mobile app designed to tackle the global waste management crisis by providing a seamless, interactive platform that promotes education, waste collection, transportation, and recycling. The app leverages AI technology to educate users about proper waste management practices, facilitates waste collection through a network of pickup agents, and offers rewards for participation.
 
 ## Problem Statement
-Over one billion people lack access to proper waste collection services, resulting in environmental degradation and health risks. Consumers and manufacturers also need better education and motivation to engage in sustainable waste management practices.
+Over one billion people lack access to proper waste collection services, resulting in environmental degradation and health risks. Consumers are often unaware of how to properly manage waste, while manufacturers fail to take responsibility for product lifecycle management. Our app provides a solution to this problem through education, collection, sorting, and transportation features that help reduce waste and improve sustainability. Reward  motivation to consumers for engaging in sustainable waste management practices.
 
 ## Solution
 RICH CYCLE aims to:
@@ -24,3 +24,13 @@ RICH CYCLE generates revenue through users' interaction with the AI waste educat
 
 ## Call to Action
 Join us in bringing this project to life! We are looking for contributors in mobile app development, backend systems, AI integration, and marketing.
+
+## Features
+
+- **Waste Management Education:** Gamified learning with AI-powered educational content for users to understand waste management at all levels.
+- **Waste Collection:** Easy access to nearby waste collection centers or pickup agents, helping users dispose of waste responsibly.
+- **AI Sorting Assistant:** The app assists users in sorting waste for recycling and informs recycling companies about available waste materials.
+- **Transportation of Waste:** Connects transporters with locations for delivering waste to manufacturers and recycling centers.
+- **Interactive Map:** A map showing the nearest waste collection points and transport routes.
+- **Reward System:** Users earn valuable rewards for engaging with the app and completing tasks.
+- **Real-time Data:** Manufacturers and recycling companies can access waste data, such as collection locations and types of recyclable materials.
