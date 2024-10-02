@@ -38,8 +38,13 @@ Join us in bringing this project to life! We are looking for passionate contribu
 ## How to Contribute
 
 - **Discuss:**
-- **Code:** 
+- **Development:** 
 - **Design:**
 - **AI integration:**
+- **New Features:**
+- **Code Debugging:**
+- **Security:**
+- **Documentation:**
 - **Research:**
+- **Promotion:**
 - **Spread the Word:** Share this project with your network to attract more contributors.
