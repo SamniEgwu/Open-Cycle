@@ -35,39 +35,6 @@ Join us in bringing this project to life! We are looking for passionate contribu
 - **Reward System:** Users earn valuable rewards for engaging with the app and completing tasks.
 - **Real-time Data:** Manufacturers and recycling companies can access waste data, such as collection locations and types of recyclable materials.
 
-## Contribute To
-
-- **Discussion:**
-- **Suggestion:**
-- **Idea:**
-- **Development:** 
-- **Design:**
-- **AI integration:**
-- **New Features:**
-- **Code Debugging:**
-- **Security:**
-- **Documentation:**
-- **Research:**
-- **Promotion:**
-- **Spread the Word:** Share this project with your network to attract more contributors.
-
-## How to Contribute
-
-1. Fork the repository
-2. Clone your fork
-3. Create a new branch for your feature or fix
-4. Commit your changes
-5. Push to the branch
-6. Open a pull request
-
-## Coding Guidelines
-
-Ensure your code follows best practices for the tech stack you're using.
-
-Write clear and concise commit messages.
-
-If applicable, add tests for your feature or bug fix.
-
 ## Contributors and Revenue Sharing
 
 As a community-driven project, **RICH CYCLE** aims to empower contributors from around the globe to take an active role in shaping the future of waste management. 
