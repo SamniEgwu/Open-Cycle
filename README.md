@@ -22,8 +22,8 @@ The app targets consumers, collection centers, transporters, manufacturers, and 
 ## Revenue Model
 RICH CYCLE generates revenue through users' interaction with the AI waste education gaming feature, where users can purchase in-game tools to complete tasks more efficiently.
 
-## Call to Action
-Join us in bringing this project to life! We are looking for contributors in mobile app development, backend systems, AI integration, and marketing.
+## We Need Your Help!
+Join us in bringing this project to life! We are looking for passionate contributors in development, backend systems, designing, AI integration, environmental enthusiasts and promoters to bring this vision to life. Your contribution can make a significant impact.
 
 ## Features
 
@@ -34,3 +34,12 @@ Join us in bringing this project to life! We are looking for contributors in mob
 - **Interactive Map:** A map showing the nearest waste collection points and transport routes.
 - **Reward System:** Users earn valuable rewards for engaging with the app and completing tasks.
 - **Real-time Data:** Manufacturers and recycling companies can access waste data, such as collection locations and types of recyclable materials.
+
+## How to Contribute
+
+- **Discuss:**
+- **Code:** 
+- **Design:**
+- **AI integration:**
+- **Research:**
+- **Spread the Word:** Share this project with your network to attract more contributors.
