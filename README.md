@@ -67,3 +67,37 @@ Ensure your code follows best practices for the tech stack you're using.
 Write clear and concise commit messages.
 
 If applicable, add tests for your feature or bug fix.
+
+## Contributors and Revenue Sharing
+
+As a community-driven project, **RICH CYCLE** aims to empower contributors from around the globe to take an active role in shaping the future of waste management. 
+
+### Contributor Selection
+
+Once the **RICH CYCLE** app is completed and deployed to users, **four contributors** will be selected from each country based on their contributions to various areas, including:
+
+- Development
+- Design
+- New Features
+- Innovative Ideas
+- Code Debugging
+- Security
+- Documentation
+- AI Integration
+- Promotion
+
+This selection process ensures that individuals who are actively engaged in improving the app and contributing their expertise are recognized and rewarded.
+
+### Revenue Control
+
+The revenue generated from users in each country, specifically from in-app purchases related to **game tools and educational features**, will be controlled by the selected contributors of that country. This model encourages contributors to drive user engagement and promote the app actively, as their earnings will be directly tied to the app's success in their respective regions.
+
+A small percentage of the revenue will be allocated to the app's idea creator to maintain the vision and support the project’s sustainability. 
+
+### Benefits of Contributing
+
+- **Financial Rewards**: Contributors will have the opportunity to earn revenue from in-app purchases made by users in their country.
+- **Local Impact**: Contributors will play a vital role in addressing waste management issues specific to their regions, making a real difference in their communities.
+- **Community Empowerment**: Contributors will participate in decision-making processes related to revenue sharing and app improvements, fostering a sense of ownership and collaboration.
+
+By joining the **RICH CYCLE** project, you become part of a global community dedicated to solving one of the pressing challenges of our time—waste management. Together, we can bring this innovative app to life and create a sustainable future.
