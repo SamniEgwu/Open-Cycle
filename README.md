@@ -67,4 +67,4 @@ A small percentage of the revenue will be allocated to the app's idea creator to
 - **Local Impact**: Contributors will play a vital role in addressing waste management issues specific to their regions, making a real difference in their communities.
 - **Community Empowerment**: Contributors will participate in decision-making processes related to revenue sharing and app improvements, fostering a sense of ownership and collaboration.
 
-By joining the **RICH CYCLE** project, you become part of a global community dedicated to solving one of the pressing challenges of our time—waste management. Together, we can bring this innovative app to life and create a sustainable future.
+By joining the **OPEN CYCLE** project, you become part of a global community dedicated to solving one of the pressing challenges of our time—waste management. Together, we can bring this innovative app to life and create a sustainable future.
