@@ -54,3 +54,18 @@ Users receive notifications when their waste returns are approved and grams are 
 
 ## STEP 4: Gamification
 ## Game Design:
+An AI-powered puzzle game educates users on waste management.
+
+**Challenge Mode:** Users compete in puzzle challenges, staking a portion of their grams.
+
+**Game Levels:** The puzzle game includes increasing difficulty levels, with higher stakes at advanced levels.
+
+## Grams Staking:
+Players stake grams in challenges, with winners claiming a portion of the opponent's grams.
+
+**In-Game Tools:** Tools can be purchased using grams to enhance gameplay.
+
+## STEP 5: Returning Physical and Digital Disposable Waste
+## Creating a Digital Waste File:
+
+**Auto AI Input:** The app captures product details using AI from images or videos of the product label.
