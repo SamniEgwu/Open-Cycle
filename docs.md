@@ -38,7 +38,7 @@ The app generates a unique App ID for each user upon successful registration. Th
 **Grams Conversion:** Upon approval, reward grams are converted into **Value Grams**.
 
 ## Using Value Grams:
-Can be used in waste management educational puzzle games or transferred to DRS, when grams balance is up to 10000 grams for withdrawals.
+Can be used in waste management educational puzzle games or transferred to DRS, with a minimum balance of 10000 grams for withdrawals.
 
 ## STEP 3: Grams Generation
 ## Waste Material Return Process:
