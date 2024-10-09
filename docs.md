@@ -1,6 +1,61 @@
-# Waste Management App Documentation
-## STEP 1: User Registration and ID Generation
-## Registration Process:
+# Waste Management App: Comprehensive Documentation
+## Table of Contents
+## 1. Introduction
+**Overview**
+
+**Objectives**
+
+## 2. User Registration and Identification
+**Registration Process**
+
+**Auto-Generated User ID**
+
+## 3. Two-Balance Reward System
+**Grams Balance**
+
+**Deposit Refund System (DRS) Balance**
+
+**Reward Conversion and Usage**
+
+## 4. Waste Material Return Process
+**Creating Digital Waste Files**
+
+**Returning Physical and Digital Waste**
+
+**Grams Generation and Allocation**
+
+## 5. Gamification and Education
+**AI-Powered Educational Puzzle Game**
+
+**Challenge Mode and Grams Staking**
+
+**In-Game Tools and Strategies**
+
+## 6. Community Roles and Participation
+**Collection Centers**
+
+**Pickup Agents**
+
+**Waste Transporters**
+
+## 7. Technical Implementation
+**AI Integration**
+
+**Verification and Fraud Prevention**
+
+**User Experience Enhancements**
+
+## 8. Security and Compliance
+**Data Privacy**
+
+**Financial Regulations**
+
+## 9. Developer Engagement and Open Source Strategy
+**Attracting Contributors**
+
+**Project Governance**
+
+## 10. Conclusion and Next Steps
 When a new user signs up, they provide their basic information (name, email, phone number) to create an account. 
 
 The app generates a unique App ID for each user upon successful registration. This ID is their identifier for all app transactions and activities.
