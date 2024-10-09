@@ -69,3 +69,40 @@ Players stake grams in challenges, with winners claiming a portion of the oppone
 ## Creating a Digital Waste File:
 
 **Auto AI Input:** The app captures product details using AI from images or videos of the product label.
+
+**Manual Input:** Users can manually input product details if necessary.
+
+**Product Details**
+
+**Manufacturer/Brand:** Extracts the manufacturer or brand name.
+
+**Product Name:** Identifies the product based on text and visual features.
+
+**Packaging:** Detects the type of packaging (e.g., plastic bottle, cardboard box).
+
+**Material Type:** Classifies the primary material (e.g., plastic, glass, metal, paper).
+
+**Waste Classification:** Determines the waste category (e.g., recyclable, hazardous, compostable).
+
+**What Can Be Recycled:** Lists components that can be recycled (e.g., "Bottle cap: recyclable").
+
+**Weight:** Using the image or video seen on the scale to check if it matches 80% of other users image or video submit to the same product and the product measurement. The result of the accurate weight management of a single disposable waste product comes from the 80% human image and video submission.
+Or using known packaging data or prompts the user to input the weight manually if uncertain.
+
+**Amount:** Asks the user to provide the quantity of each product (e.g., 3 bottles of soda).
+
+## Transferring Digital Files:
+Users must provide digital waste files along with physical waste when returning waste at collection centers or to pickup agents.
+
+## STEP 6: Creating Collection Centers and Pickup Agents
+## Collection Center Setup:
+Users can register locations such as depots or shops as collection centers.
+
+Centers must input details like name, address, waste types, and business hours. A unique **Collection Center ID** is generated upon approval.
+
+## Becoming a Pickup Agent:
+Users can apply to become pickup agents for collection centers. Agents handle nearby waste pickups and earn rewards for approved waste returns.
+
+## STEP 7: Waste Transporters
+## Becoming a Waste Transporter:
+Users can become waste transporters by selecting waste types to transport and specifying travel destinations.
