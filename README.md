@@ -1,16 +1,16 @@
-# Rich-Cycle/waste management
+# Open-Cycle/waste management
 An AI-powered waste management app combining education, gaming, and rewards to promote sustainable waste collection, recycling, and transportation. Join us in building a solution to reduce environmental waste globally.
 
-# RICH CYCLE - Waste Management Education, Gaming, Collections, and Transport App
+# OPEN CYCLE - Waste Management Education, Gaming, Collections, and Transport App
 
 ## Executive Summary
-RICH CYCLE is a mobile app designed to tackle the global waste management crisis by providing a seamless, interactive platform that promotes education, waste collection, transportation, and recycling. The app leverages AI technology to educate users about proper waste management practices, facilitates waste collection through a network of pickup agents, and offers rewards for participation.
+OPEN CYCLE is a mobile app designed to tackle the global waste management crisis by providing a seamless, interactive platform that promotes education, waste collection, transportation, and recycling. The app leverages AI technology to educate users about proper waste management practices, facilitates waste collection through a network of pickup agents, and offers rewards for participation.
 
 ## Problem Statement
 Over one billion people lack access to proper waste collection services, resulting in environmental degradation and health risks. Consumers are often unaware of how to properly manage waste, while manufacturers fail to take responsibility for product lifecycle management. Our app provides a solution to this problem through education, collection, sorting, and transportation features that help reduce waste and improve sustainability. Reward  motivation to consumers for engaging in sustainable waste management practices.
 
 ## Solution
-RICH CYCLE aims to:
+OPEN CYCLE aims to:
 - Educate users on waste management through AI-powered, gamified content.
 - Provide access to waste collection centers and pickup agents.
 - Assist in waste sorting and transportation.
@@ -20,7 +20,7 @@ RICH CYCLE aims to:
 The app targets consumers, collection centers, transporters, manufacturers, and recycling companies globally. It addresses the need for accessible, efficient, and sustainable waste management solutions.
 
 ## Revenue Model
-RICH CYCLE generates revenue through users' interaction with the AI waste education gaming feature, where users can purchase in-game tools to complete tasks more efficiently.
+OPEN CYCLE generates revenue through users' interaction with the AI waste education gaming feature, where users can purchase in-game tools to complete tasks more efficiently.
 
 ## We Need Your Help!
 Join us in bringing this project to life! We are looking for passionate contributors in development, backend systems, designing, AI integration, environmental enthusiasts and promoters to bring this vision to life. Your contribution can make a significant impact.
@@ -37,11 +37,11 @@ Join us in bringing this project to life! We are looking for passionate contribu
 
 ## Contributors and Revenue Sharing
 
-As a community-driven project, **RICH CYCLE** aims to empower contributors from around the globe to take an active role in shaping the future of waste management. 
+As a community-driven project, **OPEN CYCLE** aims to empower contributors from around the globe to take an active role in shaping the future of waste management. 
 
 ### Contributor Selection
 
-Once the **RICH CYCLE** app is completed and deployed to users, **four contributors** will be selected from each country based on their contributions to various areas, including:
+Once the **OPEN CYCLE** app is completed and deployed to users, **four contributors** will be selected from each country based on their contributions to various areas, including:
 
 - Development
 - Design
