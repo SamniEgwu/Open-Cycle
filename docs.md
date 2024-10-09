@@ -70,6 +70,27 @@ The Waste Management App is an innovative platform designed to revolutionize was
 
 **Leverage Technology:** Utilize AI for efficient data processing and user experience enhancement.
 
+# 2. User Registration and Identification
+## Registration Process
+**User Sign-Up:** New users provide basic information such as name, email, and phone number.
+
+**Account Creation:** Users set up a secure account with login credentials.
+
+**Optional Profile Completion:** Users can add additional details like address or preferred collection centers.
+
+## Auto-Generated User ID
+**Unique Identifier:** Upon registration, the app generates a unique User ID.
+
+**Purpose:**
+
+**Transaction Tracking:** Links all user activities within the app.
+
+**Grams Allocation:** Ensures rewards are correctly assigned.
+
+**Interaction Facilitation:** Simplifies identification when interacting with collection centers, agents, or transporters.
+
+# 3. Two-Balance Reward System
+
 When a new user signs up, they provide their basic information (name, email, phone number) to create an account. 
 
 The app generates a unique App ID for each user upon successful registration. This ID is their identifier for all app transactions and activities.
