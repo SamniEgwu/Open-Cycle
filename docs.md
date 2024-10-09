@@ -100,8 +100,12 @@ Users can register locations such as depots or shops as collection centers.
 
 Centers must input details like name, address, waste types, and business hours. A unique **Collection Center ID** is generated upon approval.
 
+**Collection Centers Rewards:** Collection Centers earns a 10% of the approved grams rewards by them to the users.
+
 ## Becoming a Pickup Agent:
 Users can apply to become pickup agents for collection centers. Agents handle nearby waste pickups and earn rewards for approved waste returns.
+
+**Agent Rewards:** Pickup agents earn a 20% of the approved grams rewards by the them to the users.
 
 ## STEP 7: Waste Transporters
 ## Becoming a Waste Transporter:
